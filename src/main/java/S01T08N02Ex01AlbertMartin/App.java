@@ -18,7 +18,7 @@ public class App {
 
         List<String> filteredNames = new ArrayList<>();
 
-        //Retornem una llista amb els strings que comencen per la lletre "A" i tenen
+        //Retornem una llista amb els strings que comencen per la lletra "A" i tenen
         //exactament 3 lletres
 
         names.stream()

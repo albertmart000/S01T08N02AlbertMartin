@@ -1,8 +1,8 @@
-package EX03;
+package S01T08N02Ex03AlbertMartin;
 
 @FunctionalInterface
 public interface Calculator {
 
-    float calculate(int x, int y);
+    float calculate(float x, float y);
 
 }
